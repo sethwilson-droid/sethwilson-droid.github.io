@@ -1,6 +1,3 @@
-
-<html>
-    
     <head>
         <title>Digital Outpost Net Web Test Connection Alpha 2026</title>
         <meta charset="UTF-8">
@@ -22,8 +19,3 @@
        This page validates as HTML5 and CSS3: <a href="http://validator.w3.org/check?uri=referer">Valid HTML 5</a>
     <a href="http://jigsaw.w3.org/css-validator/check/referer">Valid CSS</a></p>
     </div>
-    
-    
-    
-    </body>
-</html>
